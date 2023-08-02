@@ -1,0 +1,51 @@
+{
+  "0x382BF880D4046231A90b834ada54931899dD1c5f": {
+    "id": "0x382BF880D4046231A90b834ada54931899dD1c5f",
+    "name": "Yum Yum",
+    "symbol": "YUMY",
+    "maker_fee": "0",
+    "taker_fee": "0.003"
+  },
+  "0x4200000000000000000000000000000000000006": {
+    "id": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "maker_fee": "0",
+    "taker_fee": "0.003"
+  },
+  "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8": {
+    "id": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+    "name": "Bald",
+    "symbol": "BALD",
+    "maker_fee": "0",
+    "taker_fee": "0.003"
+  },
+  "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6": {
+    "id": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+    "name": "Axelar Wrapped USDT",
+    "symbol": "axlUSDT",
+    "maker_fee": "0",
+    "taker_fee": "0.003"
+  },
+  "0xEB466342C4d449BC9f53A865D5Cb90586f405215": {
+    "id": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC",
+    "maker_fee": "0",
+    "taker_fee": "0.003"
+  },
+  "0xE5417A52d9535f0069058324958Bf4d89E2e38A1": {
+    "id": "0xE5417A52d9535f0069058324958Bf4d89E2e38A1",
+    "name": "USDC",
+    "symbol": "USDC",
+    "maker_fee": "0",
+    "taker_fee": "0.003"
+  },
+  "0x4528BE9055935C213020085656AD3c1E99BF1f32": {
+    "id": "0x4528BE9055935C213020085656AD3c1E99BF1f32",
+    "name": "USDT",
+    "symbol": "USDT",
+    "maker_fee": "0",
+    "taker_fee": "0.003"
+  }
+}

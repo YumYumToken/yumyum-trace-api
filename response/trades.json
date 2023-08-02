@@ -1,0 +1,2258 @@
+[
+  {
+    "trade_id": "0x30ed8fd77034cd61f4d93133cdfb094570f9f6dc1677b0f2edbf36b684e4b6c1#534",
+    "base_volume": "0.001",
+    "quote_volume": "0.001",
+    "type": "borrow-both",
+    "trade_timestamp": "1690881231",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe5dc90ab05eccc0b1ffbbbb47e39b92ca34f96d785f64c313905196f254c1aaf#535",
+    "base_volume": "0.000824212727443615",
+    "quote_volume": "0.000824212727443615",
+    "type": "borrow-both",
+    "trade_timestamp": "1690881235",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x668adaf74cca18d315d9b2616720409a79f6c43323f92ec5b325ca3fda8e23b4#536",
+    "base_volume": "0.00046006738949577",
+    "quote_volume": "0.00046006738949577",
+    "type": "borrow-both",
+    "trade_timestamp": "1690905343",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x68e5f629245b91ed91012391908ece14ba30fc084948590cef5050634c161799#537",
+    "base_volume": "0.001953252449386657",
+    "quote_volume": "0.001953252449386657",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925597",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x902ecf792e4f988836c8e38469b27c12d13e4ab2ac891ce8fb82a3565754e2c8#538",
+    "base_volume": "0.087750000000000016",
+    "quote_volume": "0.087750000000000016",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925601",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x75932d42195a748aa1d3792f3df3f778e512ee261969609db34a72fd06d943d2#539",
+    "base_volume": "0.043075339750992441",
+    "quote_volume": "0.043075339750992441",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925621",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa40d987dfd7654bc2163b973e1612674f1f4d9a0402ffc14e5fc6ee61800c13d#540",
+    "base_volume": "0.00061648470663913",
+    "quote_volume": "0.00061648470663913",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925629",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf93a42a40b9660cab939c16a1e10ea0a904c4faa923c35e21924ce3c8b710685#541",
+    "base_volume": "0.000639982214671393",
+    "quote_volume": "0.000639982214671393",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925649",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xd285ced26a2a6488f3203a5ee3f2e335979f480da62e6e8ed7bb2146bd890e16#542",
+    "base_volume": "0.000834534386592107",
+    "quote_volume": "0.000834534386592107",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925659",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x36d1b342ab033950a795453f15d91afd96e7be77e7226d51d38bc61e14299eb7#543",
+    "base_volume": "0.000750109851744561",
+    "quote_volume": "0.000750109851744561",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925669",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x1818b1e409f0dcfd84e2fcfa7ce0f6e68cd6c1a4ec353d61ab148334670a4ee7#544",
+    "base_volume": "0.038575195312500016",
+    "quote_volume": "0.038575195312500016",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925681",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x142309439d4998bacc21a8cf75eec3d2e310ed869251f5e338e9b418113100d7#545",
+    "base_volume": "0.000745419096487287",
+    "quote_volume": "0.000745419096487287",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925753",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x75b19f0d43ecc267d6addde77d5032d038bbd66940bb30636563d7eade3fa698#546",
+    "base_volume": "0.000956684881624631",
+    "quote_volume": "0.000956684881624631",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925759",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x860e4dab9aabfca867afa65be10aa08b5f089c09c5ce04829cd9baa0276b5b11#547",
+    "base_volume": "0.035520493192938981",
+    "quote_volume": "0.035520493192938981",
+    "type": "borrow-both",
+    "trade_timestamp": "1690925761",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x06ccd1f6f6381527cabc6cf21298a1086c3a66d80b7e828986072928f9854d04#548",
+    "base_volume": "0.027065796952391288",
+    "quote_volume": "0.027065796952391288",
+    "type": "borrow-both",
+    "trade_timestamp": "1690926859",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe475bb7ab2e3aa27a3827d973995ff1607c5f6a934fef22735c1a2fa0cdd9be6#549",
+    "base_volume": "0.03312358876938494",
+    "quote_volume": "0.03312358876938494",
+    "type": "borrow-both",
+    "trade_timestamp": "1690926961",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x09d81869de8fc1eca148d37057228a967845e36722e423084bb9e4d729e01183#550",
+    "base_volume": "0.005898583402362762",
+    "quote_volume": "0.005898583402362762",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927227",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0a2ac7d160d048aabc4af9fdf910c99280b770dccdf1e6c68a2c407df5ebb179#551",
+    "base_volume": "0.011504436046115131",
+    "quote_volume": "0.011504436046115131",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927253",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf12bf235d2c14834aa536ceeb22e81fb5f8454164a92a24404e1a71dacf4ea60#552",
+    "base_volume": "0.023484898602925666",
+    "quote_volume": "0.023484898602925666",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927305",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x07a16706e73828d78b03cfd42fbb3b5010bc3ea54c65a885f6d1bbba8e2eedde#553",
+    "base_volume": "0.008536514255025322",
+    "quote_volume": "0.008536514255025322",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927327",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x3150d8be8b03a3218b4f3490b2a4cf2dbfeae68ac66dc24f09492cea5ec6bdc8#554",
+    "base_volume": "0.01294007075591214",
+    "quote_volume": "0.01294007075591214",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927361",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x44078818cf7020abc72a7b3a1efa03caf4c7c5f63a664866ab05ffe9670a4c92#555",
+    "base_volume": "0.006941421772050074",
+    "quote_volume": "0.006941421772050074",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927375",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4ea62c1fc33b107893ff86066be16f55e5879398809f585abd08f46af78e6e79#556",
+    "base_volume": "0.015546374852260658",
+    "quote_volume": "0.015546374852260658",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927529",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe8236e02754239173e0dccde4d4be3b6bd6163c186951aa9213b495030f4e8c7#557",
+    "base_volume": "0.003144330396010064",
+    "quote_volume": "0.003144330396010064",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927537",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9c4ceb63874fbad14c5f122fbf0c74e7c16d73993eb45b8d3431e583454909cb#558",
+    "base_volume": "0.004634886785782289",
+    "quote_volume": "0.004634886785782289",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927561",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0b6f389f145c1ddb362bc16b087e3a2e206b515ced77df1fd5d0880d393103cb#559",
+    "base_volume": "0.010388518930717643",
+    "quote_volume": "0.010388518930717643",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927601",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc9e58f90c16273e2aa75ce24ac7d58d51a7f19dbb29e4b653a71649575847c2d#560",
+    "base_volume": "0.009124482156148257",
+    "quote_volume": "0.009124482156148257",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927625",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9528e9b12282a982256a6069aaabd115dca9c9a67313f402b55064932c20f781#561",
+    "base_volume": "0.006065975009742765",
+    "quote_volume": "0.006065975009742765",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927653",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x555e7295f7ebde7656f3e6b2ba96082ce4ac534f28880374a51ad1ca615e5669#562",
+    "base_volume": "0.02863046232143886",
+    "quote_volume": "0.02863046232143886",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927701",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x99f8735f17b7447aa8e0d851534535fe0ee4977fb5711b53addf6dbffa04bcc0#563",
+    "base_volume": "0.032664227964415015",
+    "quote_volume": "0.032664227964415015",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927713",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0250dd0db7bd7758dd1e76365755d20fe8659f534e0433954550e9516965762e#564",
+    "base_volume": "0.014523459647190132",
+    "quote_volume": "0.014523459647190132",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927753",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x74ed6cc752f1b4b90368c9408fe4e0963108341431cf14c3b1ed83fcb51aea5e#565",
+    "base_volume": "0.012444728334806724",
+    "quote_volume": "0.012444728334806724",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927793",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9946ac3176105581cad55d52a90f4798a2a1266394ef5cec4b0fc08e9b8f041c#566",
+    "base_volume": "0.004190381693490261",
+    "quote_volume": "0.004190381693490261",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927817",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x1da437e5b933b2abcb76a444fbb4ab27e0321cefa716f381dafd6b63e83f08ef#567",
+    "base_volume": "0.035781648256990933",
+    "quote_volume": "0.035781648256990933",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927891",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xaf6202a86929d4794f8bc156bfab37956b3e9a3bb76de538664151f52ab40f64#568",
+    "base_volume": "0.018053218735334659",
+    "quote_volume": "0.018053218735334659",
+    "type": "borrow-both",
+    "trade_timestamp": "1690927909",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0b357a6cc1be09c39d973ca7e294600e37a4d988bf60d3c9fe53855b5438c8f7#569",
+    "base_volume": "0.006393542009623433",
+    "quote_volume": "0.006393542009623433",
+    "type": "borrow-both",
+    "trade_timestamp": "1690928029",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf2e955c5d51ffe790184d5bc723a6b9be747da42b4d0ea117c3af20776a0bbe8#570",
+    "base_volume": "0.004901291989440775",
+    "quote_volume": "0.004901291989440775",
+    "type": "borrow-both",
+    "trade_timestamp": "1690928077",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xd643a37cde9fca2684d6856656cd54171bd1ed6f97f080fe5a135acca52c6abb#571",
+    "base_volume": "0.008976117903966194",
+    "quote_volume": "0.008976117903966194",
+    "type": "borrow-both",
+    "trade_timestamp": "1690928127",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x870d3c57b928d4d9e990cbcc58f69f9a870c912b995283cae37ea2e42c7e0bbb#572",
+    "base_volume": "0.008513119206041569",
+    "quote_volume": "0.008513119206041569",
+    "type": "borrow-both",
+    "trade_timestamp": "1690928151",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa6c5b3547f08e70cda5d63bec8eb91bff428dbdab9477b8585962efa0f71ba77#573",
+    "base_volume": "0.007296772880310208",
+    "quote_volume": "0.007296772880310208",
+    "type": "borrow-both",
+    "trade_timestamp": "1690928171",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x05ae9c7010d3ba661c825b3736e35a341fb30e3f675eb08fa7c0d3e10c533dc7#574",
+    "base_volume": "0.02367180863439366",
+    "quote_volume": "0.02367180863439366",
+    "type": "borrow-both",
+    "trade_timestamp": "1690928301",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xdacfd0ec7efb87f046acd81c4167eb7d7453bda38b29872e3f116a4ca29db81a#575",
+    "base_volume": "0.007888268059919181",
+    "quote_volume": "0.007888268059919181",
+    "type": "borrow-both",
+    "trade_timestamp": "1690928795",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xaae8bf7c2b5771639a4b1fcb976e0f7f471c493fb7459e4f3803f87dbe557773#576",
+    "base_volume": "0.007973694476273438",
+    "quote_volume": "0.007973694476273438",
+    "type": "borrow-both",
+    "trade_timestamp": "1690928963",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xed727e1abed35ca735aca6cc6c46ebc70427434e323517f4858beabc53bc5851#577",
+    "base_volume": "0.005447145197009583",
+    "quote_volume": "0.005447145197009583",
+    "type": "borrow-both",
+    "trade_timestamp": "1690929023",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x299fa333dcd10483c81c2f8fb5081598d854593f1c761634281975a33fe6185d#578",
+    "base_volume": "0.009312725332559644",
+    "quote_volume": "0.009312725332559644",
+    "type": "borrow-both",
+    "trade_timestamp": "1690929075",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x36bb0449634e621e4a054a75ec0b927498ab28be472272fd8724ebfed5d5d63b#579",
+    "base_volume": "0.00977750509236784",
+    "quote_volume": "0.00977750509236784",
+    "type": "borrow-both",
+    "trade_timestamp": "1690929089",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x15c389bf9e41dd16c06dbf0a6adcaf54775c9bb4647205868e40e34b712b4aac#580",
+    "base_volume": "0.006492710156107778",
+    "quote_volume": "0.006492710156107778",
+    "type": "borrow-both",
+    "trade_timestamp": "1690929219",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x51f7fc58ba8407c100933fd982156e3a939774c46eba9379c0aed191c3b6d0f5#581",
+    "base_volume": "0.041222614809931391",
+    "quote_volume": "0.041222614809931391",
+    "type": "borrow-both",
+    "trade_timestamp": "1690929741",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xec1023430ab148b6e9cd9dd6b718031c111383c9294aa351a141395ae12e49a1#582",
+    "base_volume": "0.025144584362466825",
+    "quote_volume": "0.025144584362466825",
+    "type": "borrow-both",
+    "trade_timestamp": "1690929983",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0b65a0d6b6c31173b6d1575c44af3c2fb96c0c3c87a31686873994e8ee87a751#583",
+    "base_volume": "0.004182033357558524",
+    "quote_volume": "0.004182033357558524",
+    "type": "borrow-both",
+    "trade_timestamp": "1690929997",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x58807bdae44ed514f68123dcf1f412abb92908f1da1ef8adbfbde300c093daf4#584",
+    "base_volume": "0.009459479342015984",
+    "quote_volume": "0.009459479342015984",
+    "type": "borrow-both",
+    "trade_timestamp": "1690930025",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x04015b23b8f127a0f5e5ba5db339cc3ca3f8868923d7fcfdc8de0aa8d009762c#585",
+    "base_volume": "0.009777832030992052",
+    "quote_volume": "0.009777832030992052",
+    "type": "borrow-both",
+    "trade_timestamp": "1690930827",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0af5ef559e08689c98bb5a2935218dd88c7831fecb5810d2897688ad85ad2876#586",
+    "base_volume": "0.00834996892961849",
+    "quote_volume": "0.00834996892961849",
+    "type": "borrow-both",
+    "trade_timestamp": "1690930905",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x3177646e077370741f1ae2c84f28986d22c1ea9272a8e8d5a26ba16302dd5f8a#587",
+    "base_volume": "0.009608505936003813",
+    "quote_volume": "0.009608505936003813",
+    "type": "borrow-both",
+    "trade_timestamp": "1690930919",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xaed6b4338d4d08d01525243b8bc7c022a644317a0dad71134ea09274f7951beb#588",
+    "base_volume": "0.047718017578125016",
+    "quote_volume": "0.047718017578125016",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931001",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x27f2e178d1c767206748ecd69a057d0bf7816188d28479d2af7a44504d605293#589",
+    "base_volume": "0.057712500000000024",
+    "quote_volume": "0.057712500000000024",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931101",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6fdf61e2bb2d008ce70c82cc1f864ce21971f5edc2e3d1539b6564abdde268f9#590",
+    "base_volume": "0.012254094605081139",
+    "quote_volume": "0.012254094605081139",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931111",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xba3c310aec2f17752ab8eecc3a7aaa31924665e81294da785de9bec2bf5b5c98#591",
+    "base_volume": "0.013489716395336418",
+    "quote_volume": "0.013489716395336418",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931229",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xef0d398f4cc49c4d1eed661668e25069e971019325459bbedc264fa1f21d3033#592",
+    "base_volume": "0.009589018298489978",
+    "quote_volume": "0.009589018298489978",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931245",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x659d7f026637c55cf7573f15d76832cf11052007682bdec43ef1a65e3c5afae0#593",
+    "base_volume": "0.008834285509912537",
+    "quote_volume": "0.008834285509912537",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931251",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x19bedbd9a334a1206c70984bee8f8974920806514e7d48d5b22576844ff58877#594",
+    "base_volume": "0.010581378906951753",
+    "quote_volume": "0.010581378906951753",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931399",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe92afa833bf50db5eb2603fc34d050cca3652bf758afffdb723249d0497e5d21#595",
+    "base_volume": "0.005409198821401204",
+    "quote_volume": "0.005409198821401204",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931747",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x1478c332b42bb77135a997a6139f5b44beb9940060dc9b73b7189ddbc714dc49#596",
+    "base_volume": "0.015835287592048155",
+    "quote_volume": "0.015835287592048155",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931779",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf6a0dbb648ade5acce75c8566c486e9f0664cfe034d0f5a4839886c897fdcaee#597",
+    "base_volume": "0.013058580981809718",
+    "quote_volume": "0.013058580981809718",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931789",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x64826efade2ecf926c0a0facb63abeb311c3d351e4cf94ee8309b651b97a025e#598",
+    "base_volume": "0.016976975801827622",
+    "quote_volume": "0.016976975801827622",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931859",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x23b47aa8cc61531b242b6824e4208715b0c29778ae398c264d9ed9de1c65d4d7#599",
+    "base_volume": "0.003251006221249124",
+    "quote_volume": "0.003251006221249124",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931927",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x40f4cd0ba0637b0bc81422a46117ff0a0d1733796e3b545f07913fdfb62e6a61#600",
+    "base_volume": "0.006580075263542271",
+    "quote_volume": "0.006580075263542271",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931935",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe7c060573a3a557811a697b312e76af1f8bee8ab5710e30b08dc4ded1f579dd7#601",
+    "base_volume": "0.00831597929683252",
+    "quote_volume": "0.00831597929683252",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931943",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9cfe814ffeea13c9522834ea262407d1adf73275c117358ce406c9cf306c1ada#602",
+    "base_volume": "0.004256428961655356",
+    "quote_volume": "0.004256428961655356",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931951",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf01f3107e1382b70ca5bf514c234eae77f27062b5f432c8af619b45b0fa2ca3b#603",
+    "base_volume": "0.012438467386595998",
+    "quote_volume": "0.012438467386595998",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931975",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb1436c8e6166046da680f0e0884e381593fb6b3cb3c65b08ad8ff0f23f82205b#604",
+    "base_volume": "0.003021569833858123",
+    "quote_volume": "0.003021569833858123",
+    "type": "borrow-both",
+    "trade_timestamp": "1690931985",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6d5d09940495c4cc18f462abd5ac9a5a6c458831f93e3ae8d6253a46d6af8975#605",
+    "base_volume": "0.016971817260171275",
+    "quote_volume": "0.016971817260171275",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932013",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x769c28361aca60913a80394700e3fef660696006dba45b9a7a5109756618b640#606",
+    "base_volume": "0.006545513505315522",
+    "quote_volume": "0.006545513505315522",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932023",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x18067eb317d400712c7a990398175f38622678693aa6ab728335025cf5d307a7#607",
+    "base_volume": "0.004208549748139792",
+    "quote_volume": "0.004208549748139792",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932033",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x1ea5391035fcedff7fe43214636450c544c8ffa4fb38327b37f5c00f9a75b91b#608",
+    "base_volume": "0.012888714020475289",
+    "quote_volume": "0.012888714020475289",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932055",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x5b984a63f4fe1de6551b693648f6a81f6c052dd6590eb059f276bfd9c781011b#609",
+    "base_volume": "0.008458324116704907",
+    "quote_volume": "0.008458324116704907",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932063",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2cc4d876d0f9c885ab6eeae3a5321b09b1bbc6079e6e43cf3962efb02bdc61e4#610",
+    "base_volume": "0.003565787914404848",
+    "quote_volume": "0.003565787914404848",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932073",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x94618d012436cce7fcc0a88ccba3c77c5d25f032052bd7ba649a8899c4335579#611",
+    "base_volume": "0.004910795940777199",
+    "quote_volume": "0.004910795940777199",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932121",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x7dce2852bcc4701e43a8ac4eec80e70ca8f9faff16fdd0517dc5eac6aa07f935#612",
+    "base_volume": "0.007866987512959234",
+    "quote_volume": "0.007866987512959234",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932131",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x924493a93d937d7c0824dee925e7232540cd8262bb0459783d930d915de3739c#613",
+    "base_volume": "0.003730916272358517",
+    "quote_volume": "0.003730916272358517",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932251",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x575ab9805ed3e4e50d4fe63a4c2643d3f4d2f2a63ce9ed8d05fcb789591decd7#614",
+    "base_volume": "0.006589622572503913",
+    "quote_volume": "0.006589622572503913",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932321",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x88df0ca8d771d7eb13c1f14c42b59ef6d3579f95a5903ea5912d6a9e79a6912c#615",
+    "base_volume": "0.007454888947556355",
+    "quote_volume": "0.007454888947556355",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932339",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2dbfa3f448f435e9d00f1ccada387df4adefaf29075ac1048742324ef2636344#616",
+    "base_volume": "0.008323517387793145",
+    "quote_volume": "0.008323517387793145",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932349",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa158f73d080a4947ba08344901a3cf5139529cb728ab039cdbb600da969b4660#617",
+    "base_volume": "0.014450612579354929",
+    "quote_volume": "0.014450612579354929",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932409",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x38577e40cc1187bea7a672ac2f34b4205cb38d18430e92f076633930563cae65#618",
+    "base_volume": "0.006143355237784201",
+    "quote_volume": "0.006143355237784201",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932443",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x93ef340e196fded100fde58e4b9f7316784c704bc3468ace869f88c91505a986#619",
+    "base_volume": "0.017054007859373728",
+    "quote_volume": "0.017054007859373728",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932463",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2f96ca81be268101bb006d9728fe7fbec726924966773e163f24aa639988a05f#620",
+    "base_volume": "0.012274073295486278",
+    "quote_volume": "0.012274073295486278",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932475",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x3257d7842879c45210b000d03ecf9891ec4ea12881810d8eeb7abfc3c672d724#621",
+    "base_volume": "0.003722915996071955",
+    "quote_volume": "0.003722915996071955",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932485",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x75c47afc3e307efa062e6b3c8487594b3e08c0d8c54fce21ba4d1a281f93b0cb#622",
+    "base_volume": "0.007243634542987264",
+    "quote_volume": "0.007243634542987264",
+    "type": "borrow-both",
+    "trade_timestamp": "1690932535",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x65a83106fa4f93ed9f5c47a489979ae2ceb922d251b4319c0da372b40be7568b#623",
+    "base_volume": "0.008038005709687714",
+    "quote_volume": "0.008038005709687714",
+    "type": "borrow-both",
+    "trade_timestamp": "1690933333",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc95289afacc67430d0d6aa2f976d59b4107a56a49e874c1bb22269057b94c822#624",
+    "base_volume": "0.050355034928331768",
+    "quote_volume": "0.050355034928331768",
+    "type": "borrow-both",
+    "trade_timestamp": "1690933861",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf999b2728112ecf38396b8254ab8740155c712e974c73e0a707cbf38e8d3fd7d#625",
+    "base_volume": "0.002498064210218515",
+    "quote_volume": "0.002498064210218515",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934123",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa199602815238a859903d366fab5696935ea69ca6f1b8c9ade6d37a4680819bf#626",
+    "base_volume": "0.009784638518811807",
+    "quote_volume": "0.009784638518811807",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934133",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0489e1bd7f758db3ad3a3f536dd90392ffc0205940a3e13dca9156bbe39cc708#627",
+    "base_volume": "0.00516061631849431",
+    "quote_volume": "0.00516061631849431",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934147",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x619bb9b834b7a4e48f7c48878d1c954d1bce2199c5d65c4e9ed7b3acb70cd892#628",
+    "base_volume": "0.005347832222183061",
+    "quote_volume": "0.005347832222183061",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934179",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x8bed8de3b6012086025fb8c0cc462580f4f0cface0a799d86498bd24ffa27855#629",
+    "base_volume": "0.004262062476767782",
+    "quote_volume": "0.004262062476767782",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934433",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb7119b25f994402f9306d311fa0fea1a2141c5a1373385285ff2379503f19a78#630",
+    "base_volume": "0.005430907324414416",
+    "quote_volume": "0.005430907324414416",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934447",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf8cb15cf5f7886fd6c2b37a045d799c26c9b8961a38cac53324a26224791882c#631",
+    "base_volume": "0.009171788974581312",
+    "quote_volume": "0.009171788974581312",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934531",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x140dad3aa6086f1b2ffabc2af542b9a5432a3169e097c65e5b9c578cc6e00dbe#632",
+    "base_volume": "0.011649867901727642",
+    "quote_volume": "0.011649867901727642",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934541",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x5ec5e72dd38eb12d28cdd368f0d6709d6c007f3a5eb73eaf3888bb39e6c69b70#633",
+    "base_volume": "0.006730627689557238",
+    "quote_volume": "0.006730627689557238",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934589",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0fd97a73ef31e534130fc1001125fcb87de484a4e9b39aaf7bdb1af2525c26b4#634",
+    "base_volume": "0.003542954895849049",
+    "quote_volume": "0.003542954895849049",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934807",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4b5f316a99c7cf1df4031d41052230a2deb04d22a5df3b1e539fb50ad78b7149#635",
+    "base_volume": "0.004785717940875634",
+    "quote_volume": "0.004785717940875634",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934863",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xdd799c167f49abd266b4bc7443e5bdbe8ee5a21978bf323f0091bc538cede481#636",
+    "base_volume": "0.00835808580600845",
+    "quote_volume": "0.00835808580600845",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934889",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xef23772b2a9b4152d3e5e9f4ec1a52cbf1d5bdfce637ace0e89f60acaa1588ad#637",
+    "base_volume": "0.014146281500599712",
+    "quote_volume": "0.014146281500599712",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934945",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa08714f96043688509c5dfeecdc2ba63f682ad8b46ae68ac0487d6049612b327#638",
+    "base_volume": "0.003510099920403159",
+    "quote_volume": "0.003510099920403159",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934953",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4f8e5a1b43dda0cf8e05cb50f17986b08cfa2fd7769f77e3b44cbc781d9af09d#639",
+    "base_volume": "0.012125471808455933",
+    "quote_volume": "0.012125471808455933",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934965",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x1c6a8dbe14f72990a13294a71e8549ca29f4e12787e14b0a798f76ff0daf8a7f#640",
+    "base_volume": "0.014610836923749246",
+    "quote_volume": "0.014610836923749246",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934973",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4e6875e12ae4cb5ccc985af362f1c5cdc59055cb80e2a8a62069c46aef56d767#641",
+    "base_volume": "0.008197520168730193",
+    "quote_volume": "0.008197520168730193",
+    "type": "borrow-both",
+    "trade_timestamp": "1690934985",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4f0f9fc932004bc8cd8b5e6bb3b4fec7204fb928dbddc8781a3afd534ba9be6e#642",
+    "base_volume": "0.008812848379474134",
+    "quote_volume": "0.008812848379474134",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935041",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x508c17e49f4c53c128fb34f78ca13894151bbd49f0b8b9b70be0758e90e832a7#643",
+    "base_volume": "0.036386936949660204",
+    "quote_volume": "0.036386936949660204",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935057",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x78de485ee2088c51d06eaea5ebf9dfec4a15c761bae058a2cf25d4b069612044#644",
+    "base_volume": "0.006334769511952632",
+    "quote_volume": "0.006334769511952632",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935063",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xac4032bbb51a600b38fbe22d08920e4f69b550e6d94ae426199ca610467b0071#645",
+    "base_volume": "0.024079349220535843",
+    "quote_volume": "0.024079349220535843",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935069",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9d94132e0f28f392f84f504c52d76c8b8cc834762205fee73cd8c120d811fe77#646",
+    "base_volume": "0.003185840686600767",
+    "quote_volume": "0.003185840686600767",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935075",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa22edfb3401dff28aec822ca5ddfed0672800e73862363659894bb60e9553b5c#647",
+    "base_volume": "0.011528241190356748",
+    "quote_volume": "0.011528241190356748",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935099",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa8bed71b3ed292a509f1829fabb1c41b860900c10d94cf971e9127ab9689dac9#648",
+    "base_volume": "0.005648611452850104",
+    "quote_volume": "0.005648611452850104",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935143",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xfe001704ac086803fabbdae804376b33599d0c8198dc0c8f25f6779a5ee86aef#649",
+    "base_volume": "0.005443398308622442",
+    "quote_volume": "0.005443398308622442",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935207",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb7f6bef45b1d9124d36e3ea34597b0528f0eda8e1c84ef21813e5a4e8a0b508b#650",
+    "base_volume": "0.013018912673965853",
+    "quote_volume": "0.013018912673965853",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935219",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x45a860fa9199d2500be64c6c5f0c055078bb51e708f4473f8ec2de526fbf5b01#651",
+    "base_volume": "0.007426663075445439",
+    "quote_volume": "0.007426663075445439",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935259",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x61206b98de388914ce842ded2fe79af6f258bdb64975928c88b68489d7377607#652",
+    "base_volume": "0.01305439991955904",
+    "quote_volume": "0.01305439991955904",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935339",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x17c4f6a22e1713abd0b152cd7b3d32f8230288bcb2cda39844dd79ca21df1936#653",
+    "base_volume": "0.010767741985482961",
+    "quote_volume": "0.010767741985482961",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935357",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x02727771cbcd9f822bf8d9bc6b7d3993f27c0287750cb4ca63963c675717d7bc#654",
+    "base_volume": "0.003189829330529497",
+    "quote_volume": "0.003189829330529497",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935477",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa1dce0a6e9e081ad3bdecd53f806be48a9988b338561c33aca5c8d038c7c23e4#655",
+    "base_volume": "0.0092018384427796",
+    "quote_volume": "0.0092018384427796",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935601",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x68b8218f4dcb4f25f6af2cf6aee921d79180f857b6f6858f877152d4eed3cc4c#656",
+    "base_volume": "0.008418784823921561",
+    "quote_volume": "0.008418784823921561",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935721",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x335b91a705dc137d105b05034bedae7a2aec8dcfc9e6c544ccb33842444dc7dc#657",
+    "base_volume": "0.009938950611759627",
+    "quote_volume": "0.009938950611759627",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935757",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x3cbb3b68fec94e29a03dd4af05ab80d0f61bb683c8ee355cc9d2844a3baab3e0#658",
+    "base_volume": "0.010208146424321761",
+    "quote_volume": "0.010208146424321761",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935863",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xca5fedd20dd6ca5262abb7ce964d690abc2df01e8bc4873f4ff5a8199096ce63#659",
+    "base_volume": "0.008846997747148304",
+    "quote_volume": "0.008846997747148304",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935953",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf8453539ae4fe6eeb8460a5cbb359c6006bc3ea456f2b47ca362de829874c794#660",
+    "base_volume": "0.006964253905337234",
+    "quote_volume": "0.006964253905337234",
+    "type": "borrow-both",
+    "trade_timestamp": "1690935985",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6edc0beb17c44c483ad8ef7705a1887cc9639ea1a99e9abba295af91dcff5d24#661",
+    "base_volume": "0.01114721821454101",
+    "quote_volume": "0.01114721821454101",
+    "type": "borrow-both",
+    "trade_timestamp": "1690936001",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x41c4e74a78ccaabd8a0fb17605cc723b30ff23b645354b4027613db7d64966b5#662",
+    "base_volume": "0.009614586567334304",
+    "quote_volume": "0.009614586567334304",
+    "type": "borrow-both",
+    "trade_timestamp": "1690937249",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xd0ea4a1152510dace45e812b0fe7cf4749f2b69296c0a00f8824a18d213608e0#663",
+    "base_volume": "0.010336046088883367",
+    "quote_volume": "0.010336046088883367",
+    "type": "borrow-both",
+    "trade_timestamp": "1690937343",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xfc2bac9cf9ba94b2dbb86fafea50ecde43ea005924f0e03bbd0bf26b4017f232#664",
+    "base_volume": "0.017158980055340622",
+    "quote_volume": "0.017158980055340622",
+    "type": "borrow-both",
+    "trade_timestamp": "1690937627",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb9900dac8e8745923f86300bb4558d5d40b71397e51faf0243e6dc006795fc64#665",
+    "base_volume": "0.004309111882750013",
+    "quote_volume": "0.004309111882750013",
+    "type": "borrow-both",
+    "trade_timestamp": "1690937685",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe5fd01100f96fced17a92948f846ad0c4bc24e4a4b9f138ceffdc5e283c73332#666",
+    "base_volume": "0.009086663907269037",
+    "quote_volume": "0.009086663907269037",
+    "type": "borrow-both",
+    "trade_timestamp": "1690937695",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0769ed7523c4e5b01d3d24fd95a07597435d6605caba14e93b7220f3af59c73e#667",
+    "base_volume": "0.004309594995844886",
+    "quote_volume": "0.004309594995844886",
+    "type": "borrow-both",
+    "trade_timestamp": "1690937717",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc90defa7441fcecb297934365651dbefbbecede50fd9afa67311dd831904eea1#668",
+    "base_volume": "0.02370270201416278",
+    "quote_volume": "0.02370270201416278",
+    "type": "borrow-both",
+    "trade_timestamp": "1690937857",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x97396dbe0c4dbb014061d61dcedd35010093ec97c93a9ac582be4fe44a7d1512#669",
+    "base_volume": "0.020014259427156408",
+    "quote_volume": "0.020014259427156408",
+    "type": "borrow-both",
+    "trade_timestamp": "1690937879",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2d1332fb7e15b117753cef71dc56e62c61810d0c0dd1108faa252e8a7f608f89#670",
+    "base_volume": "0.005666258625481686",
+    "quote_volume": "0.005666258625481686",
+    "type": "borrow-both",
+    "trade_timestamp": "1690938485",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6ceb3629368967f3785398f6f3bac60ca57b52669d48765c9d737dc0f2c2d7fa#671",
+    "base_volume": "0.005819886643966974",
+    "quote_volume": "0.005819886643966974",
+    "type": "borrow-both",
+    "trade_timestamp": "1690938625",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xbadaaf2cc23771e4bb76369b6f90cf0f4cf6a11d50a11a7226c406d13f126129#672",
+    "base_volume": "0.033596396249489274",
+    "quote_volume": "0.033596396249489274",
+    "type": "borrow-both",
+    "trade_timestamp": "1690939321",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6622a965240af5f95724e479843a091ea2d5efca2fce2d70c034c8a79ec3b5bb#673",
+    "base_volume": "0.009026054516005252",
+    "quote_volume": "0.009026054516005252",
+    "type": "borrow-both",
+    "trade_timestamp": "1690939479",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x93ebebbe5e3fe69e22eb68d3a68f4c110cad0a8583fd8fad9adb8a040ee29ff4#674",
+    "base_volume": "0.010739078180824163",
+    "quote_volume": "0.010739078180824163",
+    "type": "borrow-both",
+    "trade_timestamp": "1690939535",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x5e7b75597e188c890e4a9d7a9ecb6a1139185216ec734e6d21863e712f806567#675",
+    "base_volume": "0.004628209555200974",
+    "quote_volume": "0.004628209555200974",
+    "type": "borrow-both",
+    "trade_timestamp": "1690939593",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x888931acd13e1772bd21456825ee6381edec767487fe20dcf6053ead01967859#676",
+    "base_volume": "0.005986182532246423",
+    "quote_volume": "0.005986182532246423",
+    "type": "borrow-both",
+    "trade_timestamp": "1690939787",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x90443da8b78b41f111e993e74e067c31e266bf63dabddc12340d23e4ff19cfe0#677",
+    "base_volume": "0.00167850648769576",
+    "quote_volume": "0.00167850648769576",
+    "type": "borrow-both",
+    "trade_timestamp": "1690939825",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xd62045e5913524ca5cbf4633bdd631c8a4a2ee6647de3173ff99e2901aba1ea1#678",
+    "base_volume": "0.004836839179897865",
+    "quote_volume": "0.004836839179897865",
+    "type": "borrow-both",
+    "trade_timestamp": "1690939941",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9bd5bd293389cfe59972f21d078e3227d0378f362588993e255dcfdc4906ada1#679",
+    "base_volume": "0.007669559458631035",
+    "quote_volume": "0.007669559458631035",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940153",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x50437e6190cd1f8d7521d25626e24c53794e7dc569e7d6f8c733ff7a3e7b1945#680",
+    "base_volume": "0.010058530176351922",
+    "quote_volume": "0.010058530176351922",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940169",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6d7b418d421acac8bd8e222b5d9ac2e7df5a24ede9230dfbf13127d8230b5110#681",
+    "base_volume": "0.008459692004384882",
+    "quote_volume": "0.008459692004384882",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940189",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc22c6db28fb7bcd06ef2a10bc60b81ac0191b2f5f34bed1c4b2ef117624ee5c0#682",
+    "base_volume": "0.00453874951009225",
+    "quote_volume": "0.00453874951009225",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940297",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x298745ab90f6e6e9e2c6c37818335d6e1ba79400f6adbc2d2892ffe2087964a6#683",
+    "base_volume": "0.006187654836255292",
+    "quote_volume": "0.006187654836255292",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940335",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x42320023fe5d9df9491f494c8054dab2f1ea8647289797710d676374f42c4b14#684",
+    "base_volume": "0.009416370945135551",
+    "quote_volume": "0.009416370945135551",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940345",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x5fa14f313c87c6e4fa9025585be13778d866bb0161fc09638492a1ec6f36e630#685",
+    "base_volume": "0.007152939095301097",
+    "quote_volume": "0.007152939095301097",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940383",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x34d4071e5afc49265637d561bd9dd76db6b1eddc3c497b318ac595bcc1e47507#686",
+    "base_volume": "0.002343348926901561",
+    "quote_volume": "0.002343348926901561",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940515",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x24b5a60e6fe9c4d27744b5b41ebfe1038babb9fca563ecd8f82d1163fdd23ee2#687",
+    "base_volume": "0.007406379060123914",
+    "quote_volume": "0.007406379060123914",
+    "type": "borrow-both",
+    "trade_timestamp": "1690940803",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x18f629b9dd7ee0b4fea007e502943a7c0f23a0c9ec57cdef30ff51cbd6e3f97a#688",
+    "base_volume": "0.009663683783350012",
+    "quote_volume": "0.009663683783350012",
+    "type": "borrow-both",
+    "trade_timestamp": "1690941093",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe7d76ce46d5a4cef69e4265d20ce2789456dbf73626ee19ccdf2438d5f4d72a0#689",
+    "base_volume": "0.006985739113342032",
+    "quote_volume": "0.006985739113342032",
+    "type": "borrow-both",
+    "trade_timestamp": "1690941169",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x91c07ad1c38455009b03598938009475744e3291802c0bdecae471c463955c7f#690",
+    "base_volume": "0.00532821687780411",
+    "quote_volume": "0.00532821687780411",
+    "type": "borrow-both",
+    "trade_timestamp": "1690941251",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb7bf309b55992e4d320814a0d50b054ead37df54fc7ce9f7129fed3837814d41#691",
+    "base_volume": "0.010967506790110892",
+    "quote_volume": "0.010967506790110892",
+    "type": "borrow-both",
+    "trade_timestamp": "1690941639",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4c923057baf73025b2aecc05d8c4605a50f971c67b1278112e4621c3a3f3cea7#692",
+    "base_volume": "0.009164560887121067",
+    "quote_volume": "0.009164560887121067",
+    "type": "borrow-both",
+    "trade_timestamp": "1690941839",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb09d4ec5a6d2015f3a69121688679bb0cf8f3b7cd0f802d2b14072db6709d445#693",
+    "base_volume": "0.011228520937345448",
+    "quote_volume": "0.011228520937345448",
+    "type": "borrow-both",
+    "trade_timestamp": "1690941977",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0b8ee37d98d2af9fc9ef688517e4339f7cf154cffa55a2b2e27509c4281e450c#694",
+    "base_volume": "0.006648265534768029",
+    "quote_volume": "0.006648265534768029",
+    "type": "borrow-both",
+    "trade_timestamp": "1690942231",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4ef4d66443b2ba4b80fe5444923df8c16ea1a5374d101c30ba70b3fb6a505bad#695",
+    "base_volume": "0.003940411317415169",
+    "quote_volume": "0.003940411317415169",
+    "type": "borrow-both",
+    "trade_timestamp": "1690942557",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x5c914b4b26558fc0251b08d39f0d6a8e5de4c97945983ecc862b4f378000510d#696",
+    "base_volume": "0.003771701979011244",
+    "quote_volume": "0.003771701979011244",
+    "type": "borrow-both",
+    "trade_timestamp": "1690942693",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x75057265bfec430a27f0e84b33bb9fc8678f62a49b4064360de8cc395428ce29#697",
+    "base_volume": "0.002473303992011878",
+    "quote_volume": "0.002473303992011878",
+    "type": "borrow-both",
+    "trade_timestamp": "1690942759",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x91731826b35776e36d55379f3f8faf5a047a6888689f1cd511dd63541fa1ab4a#698",
+    "base_volume": "0.003141320137835474",
+    "quote_volume": "0.003141320137835474",
+    "type": "borrow-both",
+    "trade_timestamp": "1690942957",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x3362309daf1e1da3dd7b922bcb38f9b324efdf983c9c7672ec28dad9e6a14bd1#699",
+    "base_volume": "0.033731449922761007",
+    "quote_volume": "0.033731449922761007",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943041",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xbe581735edfce707afd00fb44f37bab5492e12dbea1ac28d85577542610f4da4#700",
+    "base_volume": "0.009298682653995838",
+    "quote_volume": "0.009298682653995838",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943067",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9d9da1be257ad6ec67da8cd3a6908163255d5d41cd02f5a9144734cf58f70f63#701",
+    "base_volume": "0.007319948613882466",
+    "quote_volume": "0.007319948613882466",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943087",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9f68d172b2bd44044642b4a23d790855408d329175bd1359308b72d89788b9bc#702",
+    "base_volume": "0.034792662495115652",
+    "quote_volume": "0.034792662495115652",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943297",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x54ca39a8caa1498bd7ae73f7969f9bd312613f51aac285da6eebf75fe9dc41f2#703",
+    "base_volume": "0.010480080658028791",
+    "quote_volume": "0.010480080658028791",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943827",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb5e0a893db6faa7211e20dc5a9c1c9ff81a3ca80528a43ad1b152f5e00d16aee#704",
+    "base_volume": "0.009336601637125272",
+    "quote_volume": "0.009336601637125272",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943849",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xcdd083f1e5792ac23bd8577c8f4524cec0660f9a91bd3e48225f32714e2fd389#705",
+    "base_volume": "0.006577764107449278",
+    "quote_volume": "0.006577764107449278",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943869",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x25a66617a1c76027c72b32a48488e8bc844ed6404760863766aebaa1a5c327f2#706",
+    "base_volume": "0.003965363644420283",
+    "quote_volume": "0.003965363644420283",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943909",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc0aa090ddfe125f46b43bcaf91a6168d4e371c0a3324771a384fa452e317a47b#707",
+    "base_volume": "0.009198429933547487",
+    "quote_volume": "0.009198429933547487",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943915",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6e93263a21d9c90689a2e6863a5a0b292533fe7b7120f6c3fcb6b1ec5ab59e86#708",
+    "base_volume": "0.011430347644885485",
+    "quote_volume": "0.011430347644885485",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943975",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc9594d58b102b05dc905f08c7208bf429d8ddd0c0032ff836777d04d511b6723#709",
+    "base_volume": "0.004801053554474434",
+    "quote_volume": "0.004801053554474434",
+    "type": "borrow-both",
+    "trade_timestamp": "1690943985",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x5b5c581dd4108fdaabe98c4eeb6daa7cda593c26deef7d8e06a266984edbecc0#710",
+    "base_volume": "0.012096771174878531",
+    "quote_volume": "0.012096771174878531",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944009",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x03ad49394080d44c308c9cea67b5426756a7ad27107a011d0e5e46878f293e5b#711",
+    "base_volume": "0.009622477008011679",
+    "quote_volume": "0.009622477008011679",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944021",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x1409cb09ff5a81d09d15ced901f9cbee0ad27685207cfaf7292b9b2fbcde63e8#712",
+    "base_volume": "0.008008051942230167",
+    "quote_volume": "0.008008051942230167",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944167",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc058ddeefa75e338e409b5b58919f783e547099ac64bfc2dd05fd46fea63f3ca#713",
+    "base_volume": "0.007723215158123373",
+    "quote_volume": "0.007723215158123373",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944213",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xeb10bc92924030654dd13e3aeb532369e33aeb66c62eec412c03f311f3d27568#714",
+    "base_volume": "0.003102445230170171",
+    "quote_volume": "0.003102445230170171",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944295",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe97dd69246e501293cb3f7092ea05b622ca35c92c339e74efdf72d4514504267#715",
+    "base_volume": "0.01729280150428652",
+    "quote_volume": "0.01729280150428652",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944301",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x47652be5cb78cf9a753207eba279c7d5f838bbe87e456b17e202bad893886ce1#716",
+    "base_volume": "0.007473107833674574",
+    "quote_volume": "0.007473107833674574",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944329",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x01d26aab74a022ce9168e9c7515d4af89c67d98d4c1dcfa2d26ca5f5c0833ded#717",
+    "base_volume": "0.008463878402639921",
+    "quote_volume": "0.008463878402639921",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944371",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa2d230c4b47d8bc63b2dbc67d96dc95bd35289b36b3cd04e1c2bad7b3fa1863e#718",
+    "base_volume": "0.007751094477333074",
+    "quote_volume": "0.007751094477333074",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944473",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x5a87193b330062371f121f2643381e112b5c89f85e36d2e30e9b8b56562f1e3f#719",
+    "base_volume": "0.007144371838365132",
+    "quote_volume": "0.007144371838365132",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944503",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf52db2dcd72a40b91c1cd48139eb0c66ee8e05da271d9de49bb4e4fa00bc9687#720",
+    "base_volume": "0.015840410984833353",
+    "quote_volume": "0.015840410984833353",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944529",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x8d7e05bd4daa4fa717da38f643c8ee6a33ecad0201e6ba9fda22c5a6a3e2a5e9#721",
+    "base_volume": "0.004145329562961699",
+    "quote_volume": "0.004145329562961699",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944555",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb6753b7cf769bd4a2ec34b64390148af7678dc3d6c734ec97730545213bd7fb5#722",
+    "base_volume": "0.043974293329774328",
+    "quote_volume": "0.043974293329774328",
+    "type": "borrow-both",
+    "trade_timestamp": "1690944637",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xbba9d60046e289fb1698730fea02679a4d5a4260dba783d4b977e546761d9037#723",
+    "base_volume": "0.011942422611325615",
+    "quote_volume": "0.011942422611325615",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945221",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xbf57bd03d63747fdb9ed30cad3044058b51c586d3770e9171164b0a2c56499bd#724",
+    "base_volume": "0.010704158295693576",
+    "quote_volume": "0.010704158295693576",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945233",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x92589097c515f80b0cc1ac7d94cbf6bb1a498ea951739a4b2d271d801165ac9d#725",
+    "base_volume": "0.009612296743905295",
+    "quote_volume": "0.009612296743905295",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945243",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2addfefad8d3afb4c6eb51dbe6369a4b5b40cbaae1eec7d4a3f46f9080079159#726",
+    "base_volume": "0.011334729178373324",
+    "quote_volume": "0.011334729178373324",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945275",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x7a4f5fb37e18fc8a27b3ea65770da223a83a0460b836c82de63dade7bef429d4#727",
+    "base_volume": "0.0021249621551693",
+    "quote_volume": "0.0021249621551693",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945301",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xdea00161fef056a6200046285618b71490ab3c784fb1b8bde820719eeea6aea0#728",
+    "base_volume": "0.007344630230142718",
+    "quote_volume": "0.007344630230142718",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945339",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xcb76feabac509dd61a94074b9e40626abd533774b54fdcdea86682e6730d9ae6#729",
+    "base_volume": "0.002282632218189217",
+    "quote_volume": "0.002282632218189217",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945383",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4934fddf96f28b43bba1929b7b187210cd7d4f648b2de102a27092faff511317#730",
+    "base_volume": "0.006108887319931374",
+    "quote_volume": "0.006108887319931374",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945435",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x37636648feaf3444f2072bf494ecef9dfc46fc7a009bacb67c7a85006a9355be#731",
+    "base_volume": "0.007574986700390607",
+    "quote_volume": "0.007574986700390607",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945775",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe59d04859192d1692377535ea247475cf2290e253df3a7e2b7649d631bd1920d#732",
+    "base_volume": "0.013224806413625375",
+    "quote_volume": "0.013224806413625375",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945957",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xecb0cd7ad430bd8b4f7a7dd2be851b6b15ea88a1757265331664d998165b3fbd#733",
+    "base_volume": "0.006365286041714273",
+    "quote_volume": "0.006365286041714273",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945973",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xea51c85c4bb3881ecdb8085fd233d9b620345bacc451ea69ef1958ffd34d5eb3#734",
+    "base_volume": "0.008859262932977813",
+    "quote_volume": "0.008859262932977813",
+    "type": "borrow-both",
+    "trade_timestamp": "1690945983",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x7e84aacd30f84d9fa396e7bf33ec9f52c4b4878a230ea51ff48dcde9736aac9d#735",
+    "base_volume": "0.002281172679717336",
+    "quote_volume": "0.002281172679717336",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946105",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xca36261c4bb356aa99aff29b3a107f6f63cdfaa2de8d0b730cc0c238bbfe2090#736",
+    "base_volume": "0.01029918184085985",
+    "quote_volume": "0.01029918184085985",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946113",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xbaa8ddaa9d78a3cb71a9cfc4d7ecaf8a9531b3eef9f613261177b5757dc0c0c8#737",
+    "base_volume": "0.006302094367128995",
+    "quote_volume": "0.006302094367128995",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946227",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x200d0b9fcbad0bdb783d6657090b37568e5e168bd6e64c5c633414d330a0f959#738",
+    "base_volume": "0.001901654598172887",
+    "quote_volume": "0.001901654598172887",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946273",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x8e774039ef6245b4a32997e6c9a4d3baca7de1407910bc915728bd6bb3829842#739",
+    "base_volume": "0.006013066697240359",
+    "quote_volume": "0.006013066697240359",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946281",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6ad90f9e2642e003502c4d8a033d44a712b2f133b7b101ffd46fbbdf19c2c36b#740",
+    "base_volume": "0.007638639265153242",
+    "quote_volume": "0.007638639265153242",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946335",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb085e23685588c3701346b8da4aab9bd6ec7b214a8bd61cddfe1b59e70fb7ac2#741",
+    "base_volume": "0.007781291446890075",
+    "quote_volume": "0.007781291446890075",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946373",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x7070d877d44ea7d1664dd1df39e9e87e4d223d92c944f7be2dbc752101c55cf1#742",
+    "base_volume": "0.003669481237834372",
+    "quote_volume": "0.003669481237834372",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946473",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x027758ed74e85bd8a52b22c7df0448b6a34506d2fbd1336ef11ba14a9d161688#743",
+    "base_volume": "0.006887835308689192",
+    "quote_volume": "0.006887835308689192",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946491",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x99af0d31f0d1c6a27841b0eb27285c2047ae1431bfc0d0ea6aa47eb956481d56#744",
+    "base_volume": "0.010127345295357511",
+    "quote_volume": "0.010127345295357511",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946517",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x3494da927a35e1a52ddecc2517afad12dcfaa8421d17a076278e13b33fc192d3#745",
+    "base_volume": "0.007867427702846592",
+    "quote_volume": "0.007867427702846592",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946563",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xcccbf945867948c911d2ab24f24df99259928aec3bc3c83e272daee5ad2727af#746",
+    "base_volume": "0.011042900906157723",
+    "quote_volume": "0.011042900906157723",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946593",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4f5eb35eb0afde91b3860c44e45ab56a2b7d795f6d8fda11fb4cb400c32cd23f#747",
+    "base_volume": "0.008052125599799718",
+    "quote_volume": "0.008052125599799718",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946599",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb30293fce21281cec50279d520c7be091a0a4b3efb2dded7d0c8975026f350f4#748",
+    "base_volume": "0.005791970310734225",
+    "quote_volume": "0.005791970310734225",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946639",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xfbf018ea0a28cb2f644bbf7278a66b5155b3583c7e5deca4ac8034dfd859777a#749",
+    "base_volume": "0.003451031708206076",
+    "quote_volume": "0.003451031708206076",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946747",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x8d2c790effe1859e62a00419ca6330ac8dd0a7dcbb2cfd7ce715a257b18dc4ef#750",
+    "base_volume": "0.002898579858470603",
+    "quote_volume": "0.002898579858470603",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946761",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xea36d5accfd3e180efcbeee4b5e900cdc2e5ca22e60391aec81a25a7dd480f58#751",
+    "base_volume": "0.003612236014618538",
+    "quote_volume": "0.003612236014618538",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946821",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x272c0ddbc2afce71768565f779865385a1b1d91f6f2fabd0d408a631e42f3cf0#752",
+    "base_volume": "0.01107843075918304",
+    "quote_volume": "0.01107843075918304",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946867",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9cc4cc7e6c742042f70e586b0ec4b5aff3eaf1af5f79d44887272e23cc2cb91e#753",
+    "base_volume": "0.008014990809982344",
+    "quote_volume": "0.008014990809982344",
+    "type": "borrow-both",
+    "trade_timestamp": "1690946887",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xec6c1be28c96733e82ec57a05b113e71458fc73f279788600d7488763862e8b6#754",
+    "base_volume": "0.013302205558324322",
+    "quote_volume": "0.013302205558324322",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947085",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x67000b36b23dddc32e268e5e84339937fb0a48b0c44fe3c7f3e102119ff4bb3e#755",
+    "base_volume": "0.008247856928662608",
+    "quote_volume": "0.008247856928662608",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947089",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x917c17cd99a839627711e8f507237a8ebfc81b473aee96340f8e4fd4f1cdc714#756",
+    "base_volume": "0.011257602241411541",
+    "quote_volume": "0.011257602241411541",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947095",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb6b383a060d690cfb07ed04dbc09db53083170e97ce9aa77bc93f560b8a8a64f#757",
+    "base_volume": "0.001960333622774906",
+    "quote_volume": "0.001960333622774906",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947105",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9dc2f2422d1a9d452b65ef6201386ff3e157de7b3c457551b0675eaa902fd9ca#758",
+    "base_volume": "0.006136689665246079",
+    "quote_volume": "0.006136689665246079",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947145",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc94d7ee0f8321ecb1f159c13452bc5c08d0b7c2e48861f059715793f8a3557a2#759",
+    "base_volume": "0.004529814774299391",
+    "quote_volume": "0.004529814774299391",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947171",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2d89a3fd1ac1244a7755549bcb0e19b9eb0797326c3c29a0b016f55b57fa7bca#760",
+    "base_volume": "0.002895859338301643",
+    "quote_volume": "0.002895859338301643",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947213",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2918e0b0135bd83deaa103bc4455c402718e6642df8f9d69ac603d453078e4fd#761",
+    "base_volume": "0.004000694684068584",
+    "quote_volume": "0.004000694684068584",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947231",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4d0f4a8dc5832e9d7b1a2242d623bfe8afe4ab33e5269e4877c3ead929ab0564#762",
+    "base_volume": "0.004141307907551647",
+    "quote_volume": "0.004141307907551647",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947241",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2feeabd1d7ec2b916aa92b02b152a6950009327b1c5c64b11dac1368c38034bc#763",
+    "base_volume": "0.011164406793832041",
+    "quote_volume": "0.011164406793832041",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947271",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf206bc2dbc9ddfdade8b08b4a53b9c652b25b0c7c1b05269eb60b66178b63a85#764",
+    "base_volume": "0.003703133608278142",
+    "quote_volume": "0.003703133608278142",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947313",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x18d7917dcde487ee7d41d84ac390ebb761bb8b3d71b82bc237d3ca02223fc7ec#765",
+    "base_volume": "0.003646432332468199",
+    "quote_volume": "0.003646432332468199",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947335",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x1cfb368f45d829195b7de124ee95bd769b8868191e41fc3dea017ae4b4fbc32c#766",
+    "base_volume": "0.009158990687590911",
+    "quote_volume": "0.009158990687590911",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947365",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc4a656001224791207718ee3de89801fc06fbb8a497148580330b8d0ece65319#767",
+    "base_volume": "0.00657435429792156",
+    "quote_volume": "0.00657435429792156",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947377",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf4dda04cef607fcbf715ba8b29aee13cd27a6539cec068cfebb327651ca1d742#768",
+    "base_volume": "0.001281762976827023",
+    "quote_volume": "0.001281762976827023",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947405",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x94e2fbaa921d46b72374952a400dee8c68e6eae9d7f953f143193bfc4765c177#769",
+    "base_volume": "0.006569012439195186",
+    "quote_volume": "0.006569012439195186",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947445",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xf3e26827bb915b76899562dd06aeab2718a64acc47e1590dfd02fd6b26290c44#770",
+    "base_volume": "0.011281067030408938",
+    "quote_volume": "0.011281067030408938",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947459",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x761520ea122d0139c17a4e0284c096b59b5a323fe09c93a4b937c4eb1c246c71#771",
+    "base_volume": "0.007839354738012796",
+    "quote_volume": "0.007839354738012796",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947475",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x841a474773f900dd02146de6d07ed917bd35e3d7159a532605e05ccdbd04240d#772",
+    "base_volume": "0.008850430094543015",
+    "quote_volume": "0.008850430094543015",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947517",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xd73961c82371d608fb06f82b862b0f62f714f64e7e945f7d50ea1fecd73f5f71#773",
+    "base_volume": "0.012073391046434479",
+    "quote_volume": "0.012073391046434479",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947525",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x8773cfe4aef44a3a281d91596ebd8627ae9f4a1e6e184223b60ab5910a0d1cda#774",
+    "base_volume": "0.006755041984088036",
+    "quote_volume": "0.006755041984088036",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947561",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9b0c5bf22cba91273280912eb418fd91cb87bf6b1db21bea709c4533020587b4#775",
+    "base_volume": "0.006754633224311111",
+    "quote_volume": "0.006754633224311111",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947655",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe0d30610825e36b2486c9389123d7ddf408188277415d635185a332f04c43521#776",
+    "base_volume": "0.005892293011693149",
+    "quote_volume": "0.005892293011693149",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947699",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0a12701ecfef392c3b40f6434a84d171403347e0641bd5206d2e581807920b73#777",
+    "base_volume": "0.007686161766991107",
+    "quote_volume": "0.007686161766991107",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947725",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x8caf7abfdac2c5fd4a5b92d4296f7696992fd0e1cd14cf0c850c1f8f84ce7add#778",
+    "base_volume": "0.0402",
+    "quote_volume": "0.0402",
+    "type": "borrow-both",
+    "trade_timestamp": "1690947901",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x79003ee42ae913f16cdef73d3f24e724f6aabf44b6861a1a82e05761e8777686#779",
+    "base_volume": "0.006682202557775757",
+    "quote_volume": "0.006682202557775757",
+    "type": "borrow-both",
+    "trade_timestamp": "1690948579",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xcc30d63e27e1abd2b5453ae5e809f7c9809ca7567602e8a1ce8ee237afa7c1f4#780",
+    "base_volume": "0.013682317216959118",
+    "quote_volume": "0.013682317216959118",
+    "type": "borrow-both",
+    "trade_timestamp": "1690948913",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x76fc17ff9f2b57df3a912f10db74f59aadf48340520833f7e8aefbf50dc2da21#781",
+    "base_volume": "0.007443673134145094",
+    "quote_volume": "0.007443673134145094",
+    "type": "borrow-both",
+    "trade_timestamp": "1690948923",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x63b884b91d4b3300734a6ad6418bdc703ac0d41369d37cf8a5b1ffcf934f5abb#782",
+    "base_volume": "0.006506081204375157",
+    "quote_volume": "0.006506081204375157",
+    "type": "borrow-both",
+    "trade_timestamp": "1690949591",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x6a875068d7353820f657f08c67d273c291887695b3f9be98bd2d8eafa1a0879a#783",
+    "base_volume": "0.007225421945762452",
+    "quote_volume": "0.007225421945762452",
+    "type": "borrow-both",
+    "trade_timestamp": "1690949857",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe5f8139170d3544ad58888c7d7af8000dddc18c8fb9b290c2d1b80d00c562542#784",
+    "base_volume": "0.006191061056446033",
+    "quote_volume": "0.006191061056446033",
+    "type": "borrow-both",
+    "trade_timestamp": "1690949883",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb1309767302077d93ffde6ab821784bfaf18ba9d5e0fdd16ece724486f14ea34#785",
+    "base_volume": "0.002763488487729144",
+    "quote_volume": "0.002763488487729144",
+    "type": "borrow-both",
+    "trade_timestamp": "1690949903",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x987f2185fd55f87b23c54f5c49d944b9934169e5aff579bac5d1c6b39f187923#786",
+    "base_volume": "0.007265790234384133",
+    "quote_volume": "0.007265790234384133",
+    "type": "borrow-both",
+    "trade_timestamp": "1690949933",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xee0cdd54837d9d10c14db23e8d6759cd02a3e2c667d0ab5e1638fa5326ffbf17#787",
+    "base_volume": "0.008707700472248859",
+    "quote_volume": "0.008707700472248859",
+    "type": "borrow-both",
+    "trade_timestamp": "1690950739",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x720950efc1670fa717e32412c87158e2d254fbad21bd8228efb96d45bfd4fe64#788",
+    "base_volume": "0.00614175919807143",
+    "quote_volume": "0.00614175919807143",
+    "type": "borrow-both",
+    "trade_timestamp": "1690950779",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb42fe36bb9ab857df15d3da8916aa557a299b1cef6b072374f8c514c55dd64cf#789",
+    "base_volume": "0.010308789735785143",
+    "quote_volume": "0.010308789735785143",
+    "type": "borrow-both",
+    "trade_timestamp": "1690950853",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xc2d14f4f20ab12470a41226af14902b021d0038d7653fa06a12840de03fbf657#790",
+    "base_volume": "0.009146444152769013",
+    "quote_volume": "0.009146444152769013",
+    "type": "borrow-both",
+    "trade_timestamp": "1690950861",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x97cb05d6764f17081c9ed1a8bbf2986f74b83b27a20e3dc92a567ff6b5b03ef0#791",
+    "base_volume": "0.007595482096240157",
+    "quote_volume": "0.007595482096240157",
+    "type": "borrow-both",
+    "trade_timestamp": "1690951017",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xd9b8e5b0e02a5ce501f276412c4817d0afbea68fd27c4e736c947d6da3fc4ec6#792",
+    "base_volume": "0.0041596650209159",
+    "quote_volume": "0.0041596650209159",
+    "type": "borrow-both",
+    "trade_timestamp": "1690951255",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb143c68d9949248907fe14dbb51a3effcbe83765232d2b7b79b12328795aeda9#793",
+    "base_volume": "0.008500579243787121",
+    "quote_volume": "0.008500579243787121",
+    "type": "borrow-both",
+    "trade_timestamp": "1690951543",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x7c3493d07b9d0dacf85201b4025c38e3a8bad5276675d9b2a39a4c73ff2e5933#794",
+    "base_volume": "0.0280958809257987",
+    "quote_volume": "0.0280958809257987",
+    "type": "borrow-both",
+    "trade_timestamp": "1690951809",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x4165cd6c3781a07d584a0c0299baa4793a8b5a73b79d5eee624e0367a8137021#795",
+    "base_volume": "0.007684682475781778",
+    "quote_volume": "0.007684682475781778",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952387",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x04528aed12abe770bc4db6b1989316ac7a56dfc02872169eccc6f95d15009b3b#796",
+    "base_volume": "0.007912385432456347",
+    "quote_volume": "0.007912385432456347",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952441",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x3dca104a898edda2bcc2b48bf66244f15e760ad8feb04e39a5a94d22997986c5#797",
+    "base_volume": "0.00247214164133585",
+    "quote_volume": "0.00247214164133585",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952473",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x5014878396b0bbfdbbe225d76d50a891639bca947dba5cab98d4d6c922a77940#798",
+    "base_volume": "0.012703958636134536",
+    "quote_volume": "0.012703958636134536",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952511",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xb451da686757e5e32fe888d75369629d15d4e4e87b78f62411f858ec626b7101#799",
+    "base_volume": "0.005332956084248523",
+    "quote_volume": "0.005332956084248523",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952521",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x9276a78483fee3af338e4a14a20264284d8746454083c08badc67c6c98f368e4#800",
+    "base_volume": "0.007917977509470249",
+    "quote_volume": "0.007917977509470249",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952567",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe8049f67a4b79588b1eb60c7ccf528da5e3960b383cc001cbef7b0a111c64bb8#801",
+    "base_volume": "0.008109513447418459",
+    "quote_volume": "0.008109513447418459",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952593",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x2d13453de852de83c95ff63e8ca5575b691bda4cfda0b84888bdff1b1ae6d770#802",
+    "base_volume": "0.00922909467249026",
+    "quote_volume": "0.00922909467249026",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952601",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xd274502ba75d073e2d27b1d43f49d9c4db36fe03ad94d378d8ab95956fd8cd94#803",
+    "base_volume": "0.006225567972064345",
+    "quote_volume": "0.006225567972064345",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952639",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xe8de300159a9ebd0ed8ad83cc7757703d14e3c14c86c2e3307872d7ad691748e#804",
+    "base_volume": "0.006774953368483715",
+    "quote_volume": "0.006774953368483715",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952661",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa1053cc85342b86c873612dbae5a2178f44f3d5c277dec57aac78337b9dcd9fc#805",
+    "base_volume": "0.005533006604905302",
+    "quote_volume": "0.005533006604905302",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952673",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0e52bba97c4dd46077f1ba324a50fbca2c3ee4c7a5e48b54e440d1483f24f633#806",
+    "base_volume": "0.004497164317587433",
+    "quote_volume": "0.004497164317587433",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952735",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x287a3b203119dc6d4d07ec3ce7cbd787e9e80df9e150e6a2cf8ecd190fc35e2c#807",
+    "base_volume": "0.006978277164798308",
+    "quote_volume": "0.006978277164798308",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952787",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x46767f22ce5f476e08a9042a784528ef67fd9998f9079a997eec884c50454c21#808",
+    "base_volume": "0.002704191301348585",
+    "quote_volume": "0.002704191301348585",
+    "type": "borrow-both",
+    "trade_timestamp": "1690952905",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x1f3ec2872732eaf09ca2fb09c42ab26649f831efa0004d28641ef4032e0d1b52#809",
+    "base_volume": "0.003519344469589898",
+    "quote_volume": "0.003519344469589898",
+    "type": "borrow-both",
+    "trade_timestamp": "1690953367",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa2142aa714aeaff914e56573a97051605b4ae4bb151cd38b46a0bbb84d6aab7a#810",
+    "base_volume": "0.009714641843871812",
+    "quote_volume": "0.009714641843871812",
+    "type": "borrow-both",
+    "trade_timestamp": "1690953555",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x10dfa223875b9fb1f94c93316ab282b902d7d365be2a3de5b0e06c33b1b07542#811",
+    "base_volume": "0.008565489867383095",
+    "quote_volume": "0.008565489867383095",
+    "type": "borrow-both",
+    "trade_timestamp": "1690953643",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x0a0673604f71eef29835343dba593789f83d77320861e1e5e466e2a83cd02413#812",
+    "base_volume": "0.012693432402857558",
+    "quote_volume": "0.012693432402857558",
+    "type": "borrow-both",
+    "trade_timestamp": "1690954145",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xdff6093f641a9d1209943bd6f8725acbea0952f3dc5bc80d73d13b014abd22c2#813",
+    "base_volume": "0.0042779960181809",
+    "quote_volume": "0.0042779960181809",
+    "type": "borrow-both",
+    "trade_timestamp": "1690954889",
+    "price": "1"
+  },
+  {
+    "trade_id": "0xa6c193d41001e1142f202fc52ea02826028c0ca33c8e2d12aae914d7fb2803fd#814",
+    "base_volume": "0.003978510616929217",
+    "quote_volume": "0.003978510616929217",
+    "type": "borrow-both",
+    "trade_timestamp": "1690955813",
+    "price": "1"
+  },
+  {
+    "trade_id": "0x253d28b376f35aea38a98863a2c8e813291a879440f27061f90a00f63dac958b#815",
+    "base_volume": "0.00805740936061233",
+    "quote_volume": "0.00805740936061233",
+    "type": "borrow-both",
+    "trade_timestamp": "1690956859",
+    "price": "1"
+  }
+]

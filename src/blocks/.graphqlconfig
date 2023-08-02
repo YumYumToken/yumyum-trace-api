@@ -1,0 +1,15 @@
+{
+  "name": "BASE Blocks",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "BASE Blocks": {
+        "url": "https://api.studio.thegraph.com/query/49959/base-blocks/version/latest",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}

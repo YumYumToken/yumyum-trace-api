@@ -1,0 +1,90 @@
+{
+  "0x382BF880D4046231A90b834ada54931899dD1c5f_0x4200000000000000000000000000000000000006": {
+    "base_id": "0x382BF880D4046231A90b834ada54931899dD1c5f",
+    "base_name": "Yum Yum",
+    "base_symbol": "YUMY",
+    "quote_id": "0x4200000000000000000000000000000000000006",
+    "quote_name": "Wrapped Ether",
+    "quote_symbol": "WETH",
+    "last_price": "3.4176098e-13",
+    "base_volume": "0",
+    "quote_volume": "0"
+  },
+  "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8_0x4200000000000000000000000000000000000006": {
+    "base_id": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+    "base_name": "Bald",
+    "base_symbol": "BALD",
+    "quote_id": "0x4200000000000000000000000000000000000006",
+    "quote_name": "Wrapped Ether",
+    "quote_symbol": "WETH",
+    "last_price": "0.00000328868146504916",
+    "base_volume": "444484.297692102108219355",
+    "quote_volume": "2.879835091045510031"
+  },
+  "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6_0xEB466342C4d449BC9f53A865D5Cb90586f405215": {
+    "base_id": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+    "base_name": "Axelar Wrapped USDT",
+    "base_symbol": "axlUSDT",
+    "quote_id": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "quote_name": "Axelar Wrapped USDC",
+    "quote_symbol": "axlUSDC",
+    "last_price": "0.90025362054139013136",
+    "base_volume": "25.056255",
+    "quote_volume": "24.995008"
+  },
+  "0x4200000000000000000000000000000000000006_0xEB466342C4d449BC9f53A865D5Cb90586f405215": {
+    "base_id": "0x4200000000000000000000000000000000000006",
+    "base_name": "Wrapped Ether",
+    "base_symbol": "WETH",
+    "quote_id": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "quote_name": "Axelar Wrapped USDC",
+    "quote_symbol": "axlUSDC",
+    "last_price": "1420.55273985165665777631",
+    "base_volume": "0.049533589338402768",
+    "quote_volume": "82.203278"
+  },
+  "0x4200000000000000000000000000000000000006_0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6": {
+    "base_id": "0x4200000000000000000000000000000000000006",
+    "base_name": "Wrapped Ether",
+    "base_symbol": "WETH",
+    "quote_id": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+    "quote_name": "Axelar Wrapped USDT",
+    "quote_symbol": "axlUSDT",
+    "last_price": "1682.4248235936771029769",
+    "base_volume": "0.008367750784695532",
+    "quote_volume": "15.018879"
+  },
+  "0x4200000000000000000000000000000000000006_0xE5417A52d9535f0069058324958Bf4d89E2e38A1": {
+    "base_id": "0x4200000000000000000000000000000000000006",
+    "base_name": "Wrapped Ether",
+    "base_symbol": "WETH",
+    "quote_id": "0xE5417A52d9535f0069058324958Bf4d89E2e38A1",
+    "quote_name": "USDC",
+    "quote_symbol": "USDC",
+    "last_price": "2051.84989177846320573886",
+    "base_volume": "0",
+    "quote_volume": "0"
+  },
+  "0x4200000000000000000000000000000000000006_0x4528BE9055935C213020085656AD3c1E99BF1f32": {
+    "base_id": "0x4200000000000000000000000000000000000006",
+    "base_name": "Wrapped Ether",
+    "base_symbol": "WETH",
+    "quote_id": "0x4528BE9055935C213020085656AD3c1E99BF1f32",
+    "quote_name": "USDT",
+    "quote_symbol": "USDT",
+    "last_price": "2352.3052128658903886",
+    "base_volume": "0",
+    "quote_volume": "0"
+  },
+  "0x4528BE9055935C213020085656AD3c1E99BF1f32_0xE5417A52d9535f0069058324958Bf4d89E2e38A1": {
+    "base_id": "0x4528BE9055935C213020085656AD3c1E99BF1f32",
+    "base_name": "USDT",
+    "base_symbol": "USDT",
+    "quote_id": "0xE5417A52d9535f0069058324958Bf4d89E2e38A1",
+    "quote_name": "USDC",
+    "quote_symbol": "USDC",
+    "last_price": "1",
+    "base_volume": "0",
+    "quote_volume": "0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "YumyumSwap",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "YumyumSwap": {
+        "url": "https://api.studio.thegraph.com/query/49959/yumyum-subgraph-base/version/latest",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
